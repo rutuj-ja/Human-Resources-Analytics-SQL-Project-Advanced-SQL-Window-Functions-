@@ -6,7 +6,6 @@ This project focuses on analyzing HR data using advanced SQL techniques such as:
 
 * Joins
 * Window Functions
-* CTEs
 * Aggregations
 * Ranking Functions
 
